@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starNavyTest/static/css/main.6b104b72.chunk.css",
+    "main.js": "/starNavyTest/static/js/main.4821c130.chunk.js",
+    "main.js.map": "/starNavyTest/static/js/main.4821c130.chunk.js.map",
+    "runtime-main.js": "/starNavyTest/static/js/runtime-main.7a5e8158.js",
+    "runtime-main.js.map": "/starNavyTest/static/js/runtime-main.7a5e8158.js.map",
+    "static/js/2.92330bf8.chunk.js": "/starNavyTest/static/js/2.92330bf8.chunk.js",
+    "static/js/2.92330bf8.chunk.js.map": "/starNavyTest/static/js/2.92330bf8.chunk.js.map",
+    "index.html": "/starNavyTest/index.html",
+    "static/css/main.6b104b72.chunk.css.map": "/starNavyTest/static/css/main.6b104b72.chunk.css.map",
+    "static/js/2.92330bf8.chunk.js.LICENSE.txt": "/starNavyTest/static/js/2.92330bf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a5e8158.js",
+    "static/js/2.92330bf8.chunk.js",
+    "static/css/main.6b104b72.chunk.css",
+    "static/js/main.4821c130.chunk.js"
+  ]
+}
